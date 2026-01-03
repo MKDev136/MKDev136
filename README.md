@@ -19,3 +19,8 @@ Sign language translator
 
 *MERN Stack:*
 
+ECommerce
+
+ENT
+
+Streaming app
