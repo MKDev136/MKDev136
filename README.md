@@ -2,6 +2,10 @@ Hi
 
 Incoming Projects:
 
+*Games:*
+
+Zelda Clone
+
 *OpenCV:*
 
 Virtual Paint App
