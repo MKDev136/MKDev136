@@ -1,8 +1,3 @@
-Hi
-
-Incoming Projects:
-
-*Games:*
 # 🚀 Incoming Projects
 
 Hi 👋  
@@ -67,7 +62,8 @@ A streaming platform for video/audio content with user accounts and subscription
 - Game Development
 - OpenCV & Computer Vision
 - MongoDB, Express.js, React.js, Node.js (MERN)
-- JavaScript, Python, C/C++
+- PostgreSQL, Express.js, React.js, Node.js
+- JavaScript, Java, Python, C/C++
 
 ---
 
@@ -78,28 +74,3 @@ Updates will be added as progress continues.
 ---
 
 Feel free to explore, contribute, or suggest improvements!
-
-Zelda Clone
-
-*OpenCV:*
-
-Virtual Paint App
-Document Scanner
-
-Face recognition lock app
-
-Hand volume control
-
-Eyes/hands movement to mouse movements
-
-Color detector
-Sign language translator
-
-
-*MERN Stack:*
-
-ECommerce
-
-ENT
-
-Streaming app
